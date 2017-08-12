@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <!--Questions-->
+    <string name="question1">(7 * 3) / 5 + 2 =      (5 Points)</string>
+    <string name="question2">16 * 2 + 9 =   Choose possible answers  (5 Points)</string>
+    <string name="question3">(9 * 4) - (6 / 3) =    (5 Points)</string>
+    <string name="question4">5 + 5 * 5 + 5 / 5 =    (5 Points)</string>
+
+    <!--Choices-->
+    <string name="q1_choice1">5.5</string>
+    <string name="q1_choice2">6</string>
+    <string name="q1_choice3">6.2</string>
+    <string name="q2_choice1">40</string>
+    <string name="q2_choice2">Forty One</string>
+    <string name="q2_choice3">Forty</string>
+    <string name="q2_choice4">41</string>
+    <string name="q3_choice1">34</string>
+    <string name="q3_choice2">43</string>
+    <string name="q3_choice3">56</string>
+    <string name="q4_choice1">15</string>
+</resources>
